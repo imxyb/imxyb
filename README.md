@@ -7,4 +7,4 @@
 - 📫 How to reach me: xyb4638@gmail.com
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imxyb&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imxyb&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
