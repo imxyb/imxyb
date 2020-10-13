@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Shenzhen,China
-- 🌱 I’m currently learning golang/etcd/mysql/redis
-- 💬 Ask me about golang,python,mysql
+- 🔭 I’m currently working on Tencent,Shenzhen,China
+- 🌱 I’m currently learning golang/etcd/mysql/redis...
 - 📫 How to reach me: xyb4638@gmail.com
 
 
